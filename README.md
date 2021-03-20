@@ -7,5 +7,5 @@ Data Tugas Praktikum Alpro 2021
 
 **Dhiva Auliya Prasuya**
 :e-mail: Email: dhiva.prasuya21@gmail.com </br>
-:man_student: Kelas 1 A <br>
+:man_student: Kelas 1 B <br>
 :technologist: Semester 2 Informatika
